@@ -24,6 +24,8 @@ def modulo(num1= 6, num2 = 9)
 
 end
 
-def square_root(num)
+def square_root(num = 69)
+  myass = Math.sqrt(num)
+  return myass
 
 end

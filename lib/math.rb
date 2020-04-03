@@ -1,6 +1,5 @@
-def addition(num1, num2)
-    num1 = 100
-    num2 = 31
+def addition(num1 = 68, num2 = 1)
+    phil = 
     return num1 + num2
 end
 def subtraction(num1, num2)

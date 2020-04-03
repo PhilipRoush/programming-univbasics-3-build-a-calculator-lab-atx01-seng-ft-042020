@@ -18,7 +18,9 @@ def multiplication(num1= 6, num2= 9)
 
 end
 
-def modulo(num1, num2)
+def modulo(num1= 6, num2 = 9)
+  sixtynine = num1 % num2
+  return sixtynine
 
 end
 
